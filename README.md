@@ -16,4 +16,4 @@ My name is Gena and I'm a junior Python developer. I am interested in lots of di
 - 🤔 Need help with my studiess
 - ⚡ Very enthusiastic
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lep0n&show_icons=true&locale=en&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lep0n&show_icons=true&locale=en&layout=compact&theme=dark&hide=html,css,scss)
