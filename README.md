@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 
-My name is Gena and I'm a junior Python developer. I am interested in lots of different languages like **Python, HTML, CSS, SQL, JavaScript, Swift, Java, Rust, C++ and Go**. Mainly focused on web technologies, namely the backend.👨‍💻
+My name is Gena, and I'm a junior Python developer. I am interested in many different languages, such as Python, HTML, CSS, SQL, JavaScript, Swift, Java, Rust, C++ and Go. Mainly focused on web technologies, especially the backend.👨‍💻
 
 ### 🚀 My skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -10,6 +10,7 @@ My name is Gena and I'm a junior Python developer. I am interested in lots of di
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 - 🔭 Improving programming skills
 - 🌱 Learning computer science
